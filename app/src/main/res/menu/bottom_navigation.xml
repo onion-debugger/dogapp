@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_all_cats"
+        android:icon="@drawable/icon_cats_vector"
+        android:title="All Dogs" />
+    <item
+        android:id="@+id/navigation_dogs_i_like"
+        android:icon="@drawable/icon_outline_favorite_border"
+        android:title="Dogs I Like"/>
+</menu>
